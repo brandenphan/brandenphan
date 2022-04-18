@@ -3,7 +3,8 @@
 ```json
 {
  "name": "Branden Phan",
- "progress": "Still developing this README!",
+ "education": "Currently a third year computer science student studying at the University of Guelph",
+ "work": "Free-lancing at Lotus as a front-end developer"
 }
 ```
 
