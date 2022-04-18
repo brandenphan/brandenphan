@@ -2,9 +2,8 @@
 
 ```json
 {
- "name": "Martin",
- "bornOn": "1957-01-05",
- "bornIn": "http://www.scotland.org#"
+ "name": "Branden Phan",
+ "progress": "Still developing this README!",
 }
 ```
 
