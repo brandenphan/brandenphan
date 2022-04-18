@@ -4,7 +4,7 @@
 {
  "name": "Branden Phan",
  "education": "Currently a third year computer science student studying at the University of Guelph",
- "work": "Free-lancing at Lotus as a front-end developer"
+ "work": "Free-lancing at Lotus as a Front-end Developer"
 }
 ```
 
