@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hey there 👋
 
 ```json
 {
- "name": "Branden Phan",
- "education": "Currently a third year computer science student studying at the University of Guelph",
- "work": "Free-lancing at Lotus as a Front-end Developer"
+ "Name": "Branden Phan",
+ "About Me": "Aspiring Web Developer, focusing on the front-end with technologies such as React",
+ "Education": "Currently a third year student, studying computer science at the University of Guelph"
+ "Work": "Free-lancing at Lotus as a Front-end Developer"
 }
 ```
 
