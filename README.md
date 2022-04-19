@@ -3,7 +3,7 @@
 ```json
 {
  "Name": "Branden Phan",
- "About Me": "Aspiring Web Developer with an emphasis in the front-end, focusing on technologies such as React",
+ "About Me": "I'm an aspiring web developer with an emphasis in the front-end from Ontario, Canada",
  "Education": "Currently a third year student, studying computer science at the University of Guelph"
  "Work": "Free-lancing at Lotus as a Front-end Developer"
 }
