@@ -1,5 +1,5 @@
 ### Hey there 👋
-<span style="font-size:3.25em">word</span>
+<span style="font-size:10em">word</span>
 <hr />
 
 ```json
