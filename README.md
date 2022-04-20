@@ -13,7 +13,7 @@
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandenphan&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandenphan&theme=radical&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandenphan&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
