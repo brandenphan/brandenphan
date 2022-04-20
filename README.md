@@ -1,4 +1,4 @@
-### <p style={{ fontSize: "10px" }}>Hey there 👋</p>
+### Hey there 👋
 <hr />
 
 ```json
