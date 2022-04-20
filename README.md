@@ -7,13 +7,14 @@
  "Education": "Currently a third year student, studying computer science at the University of Guelph",
  "Work": "Free-lancing at Lotus as a Front-end Developer",
  "Portfolio": "https://brandenphan.netlify.app/",
- "Email": "branden.phan@gmail.com"
+ "Email": "branden.phan@gmail.com",
+ "LinkedIn": "https://www.linkedin.com/in/brandenphan/"
 }
 ```
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandenphan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandenphan&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandenphan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
