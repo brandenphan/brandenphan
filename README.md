@@ -1,4 +1,5 @@
 ### Hey there 👋
+<hr />
 
 ```json
 {
