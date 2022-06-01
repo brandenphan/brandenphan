@@ -7,7 +7,7 @@
  "Title": "Software Developer",
  "About Me": "I'm an aspiring web developer with an emphasis in the front-end, focusing on technologies such as React",
  "Education": "Currently a third year student, studying computer science at the University of Guelph",
- "Work": "Free-lancing at Lotus as a Front-end Developer",
+ "Work": "Free-lancing at Guelph Dental as a Front-end Developer",
  "Email": "branden.phan@gmail.com",
  "Portfolio": "https://brandenphan.netlify.app/",
  "LinkedIn": "https://www.linkedin.com/in/brandenphan/"
