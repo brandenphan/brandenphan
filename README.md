@@ -9,7 +9,7 @@
  "Education": "Currently a third year student, studying computer science at the University of Guelph",
  "Work": "Free-lancing at Guelph Dental as a Front-end Developer",
  "Email": "branden.phan@gmail.com",
- "Portfolio": "https://brandenphan.netlify.app/",
+ "Portfolio": "http://brandenphan.com/",
  "LinkedIn": "https://www.linkedin.com/in/brandenphan/"
 }
 ```
