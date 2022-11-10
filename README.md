@@ -6,11 +6,13 @@
  "Name": "Branden Phan",
  "Title": "Software Developer",
  "About Me": "I'm an aspiring web developer with an emphasis in the front-end, focusing on technologies such as React",
- "Education": "Currently a third year student, studying computer science at the University of Guelph",
- "Work": "Free-lancing at Guelph Dental as a Front-end Developer",
+ "Education": "Currently a fourth year student, studying computer science at the University of Guelph",
  "Email": "branden.phan@gmail.com",
  "Portfolio": "http://brandenphan.com/",
- "LinkedIn": "https://www.linkedin.com/in/brandenphan/"
+ "LinkedIn": "https://www.linkedin.com/in/brandenphan/",
+ "Recently Finished": "Work I have recently finished below!",
+ "Lotus": "https://lotusrestaurant.ca/",
+ "Guelph Dental": "https://guelphdental.com/"
 }
 ```
 <hr />
