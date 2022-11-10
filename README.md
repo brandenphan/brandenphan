@@ -10,7 +10,7 @@
  "Email": "branden.phan@gmail.com",
  "Portfolio": "http://brandenphan.com/",
  "LinkedIn": "https://www.linkedin.com/in/brandenphan/",
- "Recently Finished": "Work I have recently finished below!",
+ "Recently Finished": "Work I have recently finished below:",
  "Lotus": "https://lotusrestaurant.ca/",
  "Guelph Dental": "https://guelphdental.com/"
 }
