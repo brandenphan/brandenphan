@@ -5,8 +5,8 @@
 {
  "Name": "Branden Phan",
  "Title": "Software Developer",
- "About Me": "I'm an aspiring web developer with an emphasis in the front-end, focusing on technologies such as React",
- "Education": "Currently a fourth year student, studying computer science at the University of Guelph",
+ "About Me": "I'm an aspiring software developer with an emphasis in the front-end, focusing on technologies such as React",
+ "Education": "University of Guelph Alumni. Bachelor of Computing",
  "Email": "branden.phan@gmail.com",
  "Portfolio": "http://brandenphan.com/",
  "LinkedIn": "https://www.linkedin.com/in/brandenphan/",
