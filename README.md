@@ -12,8 +12,8 @@
  "LinkedIn": "https://www.linkedin.com/in/brandenphan/",
  "Recently Finished": "Work I have recently finished below:",
  "Yumebini": "https://yumebini.ca/",
- "Lotus": "https://lotusrestaurant.ca/",
- "Guelph Dental": "https://guelphdental.com/"
+"Guelph Dental": "https://guelphdental.com/",
+ "Lotus": "https://lotusrestaurant.ca/"
 }
 ```
 
