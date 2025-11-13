@@ -1,4 +1,4 @@
-### Hey there, I'm Branden 👋
+### Hi there, I'm Branden 👋
 
 🔗 Software Integration Engineer at [Brock Solutions](https://www.brocksolutions.com/)<br/>
 🏫 University of Guelph Alumni graduating from Computer Science<br/>
