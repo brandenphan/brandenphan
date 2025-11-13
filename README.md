@@ -1,24 +1,10 @@
 ### Hey there, I'm Branden 👋
 
-🎓 University of Guelph Alumni graduating from Computer Science
-
-<hr />
-
-```json
-{
- "Name": "Branden Phan",
- "Title": "Software Developer",
- "About Me": "I'm an aspiring software developer",
- "Education": "University of Guelph Computer Science Alumni",
- "Email": "branden.phan@gmail.com",
- "Portfolio": "http://brandenphan.com/",
- "LinkedIn": "https://www.linkedin.com/in/brandenphan/",
- "Recently Finished": "Work I have recently finished below:",
- "Yumebini": "https://yumebini.ca/",
- "Guelph Dental": "https://guelphdental.com/",
- "Lotus": "https://lotusrestaurant.ca/"
-}
-```
+🔗 Software Integration Engineer at Brock Solutions 
+🏫 University of Guelph Alumni graduating from Computer Science
+💻 Previous free-lance work with [Yumebini](https://yumebini.ca/) | [Guelph Dental](https://guelphdental.com/) | [Lotus](https://lotusrestaurant.ca/)
+📫 Contact me on [LinkedIn](https://www.linkedin.com/in/brandenphan/) or branden.phan@gmail.com
+🥅 I aspire to continue learning about emerging technology and becoming a better programmer everyday
 
 <!--
 **brandenphan/brandenphan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
