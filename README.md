@@ -1,10 +1,10 @@
 ### Hey there, I'm Branden 👋
 
-🔗 Software Integration Engineer at Brock Solutions 
-🏫 University of Guelph Alumni graduating from Computer Science
-💻 Previous free-lance work with [Yumebini](https://yumebini.ca/) | [Guelph Dental](https://guelphdental.com/) | [Lotus](https://lotusrestaurant.ca/)
-📫 Contact me on [LinkedIn](https://www.linkedin.com/in/brandenphan/) or branden.phan@gmail.com
-🥅 I aspire to continue learning about emerging technology and becoming a better programmer everyday
+🔗 Software Integration Engineer at Brock Solutions<br/>
+🏫 University of Guelph Alumni graduating from Computer Science<br/>
+💻 Previous free-lance work with [Yumebini](https://yumebini.ca/) | [Guelph Dental](https://guelphdental.com/) | [Lotus](https://lotusrestaurant.ca/)<br/>
+📫 Contact me on [LinkedIn](https://www.linkedin.com/in/brandenphan/) or branden.phan@gmail.com<br/>
+🥅 I aspire to continue learning about emerging technology and becoming a better programmer everyday<br/>
 
 <!--
 **brandenphan/brandenphan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
