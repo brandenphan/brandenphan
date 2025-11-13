@@ -1,4 +1,7 @@
-### Hey there 👋
+### Hey there, I'm Branden 👋
+
+🎓 University of Guelph Alumni graduating from Computer Science
+
 <hr />
 
 ```json
