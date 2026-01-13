@@ -4,7 +4,7 @@
 🏫 University of Guelph Alumni graduating from Computer Science<br/>
 💻 Previous free-lance work with [Yumebini](https://yumebini.ca/) | [Guelph Dental](https://guelphdental.com/) | [Lotus](https://lotusrestaurant.ca/)<br/>
 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/brandenphan/) or branden.phan@gmail.com<br/>
-🎒 I aspire to continue learning about emerging technology and becoming a better programmer everyday<br/>
+🎒 Continuing to learn about emerging technology and becoming a better programmer everyday<br/>
 
 <!--
 **brandenphan/brandenphan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
