@@ -1,6 +1,6 @@
 ### Hi there, I'm Branden 👋
 
-🔗 Software Integration Engineer at [Brock Solutions](https://www.brocksolutions.com/)<br/>
+🔗 Software Integration Specialist at [Brock Solutions](https://www.brocksolutions.com/)<br/>
 🏫 University of Guelph Alumni graduating from Computer Science<br/>
 💻 Previous free-lance work with [Yumebini](https://yumebini.ca/) | [Guelph Dental](https://guelphdental.com/) | [Lotus](https://lotusrestaurant.ca/)<br/>
 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/brandenphan/) or branden.phan@gmail.com<br/>
